@@ -68,7 +68,7 @@
         "dev": "ts-node-dev source/",
         "test": "lint-staged",
         "build": "rm -rf dist/  &&  tsc",
-        "start": "cross-env NODE_ENV=production  node dist/",
+        "start": "NODE_ENV=production  node dist/",
         "typeorm": "typeorm-ts-node-commonjs -d source/model/index.ts",
         "migration:generate": "npm run typeorm -- migration:generate",
         "migration:run": "npm run typeorm -- migration:run",
