@@ -1,8 +1,8 @@
-# REST-Node-ts
+# rest-node-ts
 
 [REST][1]ful API service scaffold based on [Node.js][2] & [TypeScript][3]
 
-[![Deploy to Production environment](https://github.com/idea2app/REST-Node-ts/actions/workflows/deploy-production.yml/badge.svg)][4]
+[![Deploy to Production environment](https://github.com/wangrunlin/rest-node-ts/actions/workflows/deploy-production.yml/badge.svg)][4]
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)][5]
 
@@ -49,7 +49,7 @@
 -   Entry: http://localhost:8080/
 -   Document: http://localhost:8080/docs/
 -   Schema: http://localhost:8080/docs/spec/
--   Type: https://github.com/idea2app/REST-Node-ts/pkgs/npm/rest-node-ts
+-   Type: https://github.com/wangrunlin/rest-node-ts/pkgs/npm/rest-node-ts
 
 ## Environment variables
 
@@ -123,10 +123,10 @@ git push origin master --tags
 [1]: https://en.wikipedia.org/wiki/Representational_state_transfer
 [2]: https://nodejs.org/
 [3]: https://www.typescriptlang.org/
-[4]: https://github.com/idea2app/REST-Node-ts/actions/workflows/deploy-production.yml
+[4]: https://github.com/wangrunlin/rest-node-ts/actions/workflows/deploy-production.yml
 [5]: https://render.com/deploy
-[6]: https://codespaces.new/idea2app/REST-Node-ts
-[7]: https://gitpod.io/?autostart=true#https://github.com/idea2app/REST-Node-ts
+[6]: https://codespaces.new/wangrunlin/rest-node-ts
+[7]: https://gitpod.io/?autostart=true#https://github.com/wangrunlin/rest-node-ts
 [8]: https://koajs.com/
 [9]: https://github.com/typestack/routing-controllers
 [10]: https://github.com/typestack/class-transformer
@@ -135,11 +135,11 @@ git push origin master --tags
 [13]: https://swagger.io/
 [14]: https://github.com/anttiviljami/openapi-backend
 [15]: https://jestjs.io/
-[16]: https://github.com/idea2app/Next-SSR-middleware
+[16]: https://github.com/wangrunlin/Next-SSR-middleware
 [17]: https://github.com/apps/settings
 [18]: https://pullrequestbadge.com/
 [19]: https://code.visualstudio.com/
-[20]: https://github.com/new?template_name=REST-Node-ts&template_owner=idea2app
+[20]: https://github.com/new?template_name=rest-node-ts&template_owner=wangrunlin
 [21]: https://github.com/kaiyuanshe/kaiyuanshe.github.io/blob/bb4675a56bf1d6b207231313da5ed0af7cf0ebd6/.github/workflows/pull-request.yml#L32-L56
-[22]: https://github.com/idea2app/REST-Node-ts/issues/new/choose
-[23]: https://github.com/idea2app/REST-Node-ts/projects
+[22]: https://github.com/wangrunlin/rest-node-ts/issues/new/choose
+[23]: https://github.com/wangrunlin/rest-node-ts/projects
